@@ -1,2 +1,55 @@
-{"question": "Replace with your question 1", "relevant": ["your_doc_stem"]}
-{"question": "Replace with your question 2", "relevant": ["doc_a", "doc_b"]}
+{"question": "Which mechanism lets a model weigh the importance of different tokens in a sequence?", "relevant": ["attention_machine_learning", "transformer_deep_learning"]}
+{"question": "Which architecture replaced recurrence with self-attention for sequence modeling?", "relevant": ["transformer_deep_learning"]}
+{"question": "How do convolutional layers share weights across an image?", "relevant": ["convolutional_neural_network"]}
+{"question": "Which network type processes sequences by carrying a hidden state from earlier steps?", "relevant": ["recurrent_neural_network"]}
+{"question": "What problem do the gates in an LSTM cell help solve?", "relevant": ["long_short_term_memory", "recurrent_neural_network"]}
+{"question": "How does gradient descent update model parameters?", "relevant": ["gradient_descent"]}
+{"question": "What happens if the learning rate is set too large?", "relevant": ["gradient_descent"]}
+{"question": "How are gradients computed efficiently through the layers of a network using the chain rule?", "relevant": ["backpropagation"]}
+{"question": "How does a random forest reduce variance compared with a single decision tree?", "relevant": ["random_forest", "decision_tree_learning"]}
+{"question": "What is bagging and how is it used in random forests?", "relevant": ["random_forest"]}
+{"question": "What is the kernel trick in support vector machines?", "relevant": ["support_vector_machine"]}
+{"question": "What is a maximum-margin hyperplane?", "relevant": ["support_vector_machine"]}
+{"question": "How does k-means assign data points to clusters?", "relevant": ["k_means_clustering"]}
+{"question": "How does PCA reduce dimensionality using eigenvectors of the covariance matrix?", "relevant": ["principal_component_analysis"]}
+{"question": "What independence assumption does the naive Bayes classifier make?", "relevant": ["naive_bayes_classifier"]}
+{"question": "Which classifier models the probability of a binary outcome with the logistic function?", "relevant": ["logistic_regression"]}
+{"question": "How does ordinary least squares fit a line to data?", "relevant": ["linear_regression"]}
+{"question": "How do decision trees choose where to split, for example with information gain or Gini impurity?", "relevant": ["decision_tree_learning"]}
+{"question": "What happens when a model fits noise in the training data and generalizes poorly?", "relevant": ["overfitting"]}
+{"question": "How does adding a penalty term to the loss function reduce model complexity?", "relevant": ["regularization_mathematics"]}
+{"question": "How does an agent learn from rewards by interacting with an environment?", "relevant": ["reinforcement_learning"]}
+{"question": "What does the Q function represent in Q-learning?", "relevant": ["q_learning"]}
+{"question": "How do the generator and discriminator compete in a GAN?", "relevant": ["generative_adversarial_network"]}
+{"question": "What is the latent code in a network trained to reconstruct its own input?", "relevant": ["autoencoder"]}
+{"question": "How are words represented as dense vectors that capture semantic similarity?", "relevant": ["word_embedding"]}
+{"question": "What does the masked language modeling objective do in BERT?", "relevant": ["bert_language_model"]}
+{"question": "How does bidirectional pretraining differ from left-to-right language modeling?", "relevant": ["bert_language_model"]}
+{"question": "How can retrieved external documents be used to ground LLM answers and reduce hallucination?", "relevant": ["retrieval_augmented_generation"]}
+{"question": "How are large language models trained on massive amounts of text?", "relevant": ["large_language_model"]}
+{"question": "How does k-fold cross-validation split the data?", "relevant": ["cross_validation_statistics"]}
+{"question": "How do underfitting and overfitting relate to bias and variance error?", "relevant": ["bias_variance_tradeoff"]}
+{"question": "How does boosting build trees one after another to correct earlier errors?", "relevant": ["gradient_boosting"]}
+{"question": "How does k-nearest neighbors classify a point using its neighbors?", "relevant": ["k_nearest_neighbors_algorithm"]}
+{"question": "How can knowledge learned on one task be reused for another task?", "relevant": ["transfer_learning"]}
+{"question": "Why do vanilla recurrent networks struggle with long-term dependencies?", "relevant": ["recurrent_neural_network", "long_short_term_memory"]}
+{"question": "What is stochastic gradient descent and how does it differ from full-batch gradient descent?", "relevant": ["gradient_descent"]}
+{"question": "How do pooling layers reduce the spatial size of feature maps?", "relevant": ["convolutional_neural_network"]}
+{"question": "How are principal components ordered by the amount of variance they explain?", "relevant": ["principal_component_analysis"]}
+{"question": "Why does the curse of dimensionality hurt nearest neighbor methods?", "relevant": ["k_nearest_neighbors_algorithm"]}
+{"question": "Which loss or objective is used to fit a logistic regression model?", "relevant": ["logistic_regression"]}
+{"question": "How do multi-head self-attention layers work inside an encoder or decoder?", "relevant": ["transformer_deep_learning", "attention_machine_learning"]}
+{"question": "What is the exploration versus exploitation trade-off?", "relevant": ["reinforcement_learning", "q_learning"]}
+{"question": "How does Word2vec learn word vectors from context?", "relevant": ["word_embedding"]}
+{"question": "How is a pretrained model fine-tuned for a downstream task?", "relevant": ["transfer_learning", "bert_language_model"]}
+{"question": "What is the vanishing gradient problem?", "relevant": ["long_short_term_memory", "recurrent_neural_network"]}
+{"question": "How does ridge regression shrink coefficient estimates?", "relevant": ["regularization_mathematics", "linear_regression"]}
+{"question": "How does a held-out validation set help detect overfitting?", "relevant": ["cross_validation_statistics", "overfitting"]}
+{"question": "Which ensemble method builds decorrelated trees using random subsets of features?", "relevant": ["random_forest"]}
+{"question": "How do variational autoencoders generate new data?", "relevant": ["autoencoder"]}
+{"question": "Why is a high-variance model sensitive to fluctuations in the training set?", "relevant": ["bias_variance_tradeoff"]}
+{"question": "What is mode collapse in generative adversarial networks?", "relevant": ["generative_adversarial_network"]}
+{"question": "How do LLMs use the transformer architecture and self-supervised pretraining?", "relevant": ["large_language_model", "transformer_deep_learning"]}
+{"question": "How does retrieval over a vector database combine with text generation?", "relevant": ["retrieval_augmented_generation"]}
+{"question": "What objective does k-means minimize?", "relevant": ["k_means_clustering"]}
+{"question": "How does a soft margin let an SVM tolerate misclassified points?", "relevant": ["support_vector_machine"]}
